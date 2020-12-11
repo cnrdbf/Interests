@@ -9,4 +9,4 @@ I also enjoy playing many different video games on my Xbox One. I enjoy playing 
 - Star Wars Battlefront
 - Elder Scrolls
 
-Return to Home Page
+[Return to Home Page](https://github.com/cnrdbf/connorrichit1000.git) 
